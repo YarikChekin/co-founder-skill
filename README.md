@@ -121,4 +121,4 @@ The local skill documents how other tools can integrate co-founder hooks:
 
 ## License
 
-MIT
+GPL-3.0 — see [LICENSE](LICENSE)
